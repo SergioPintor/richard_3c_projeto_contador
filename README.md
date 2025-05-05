@@ -1,2 +1,2 @@
-# richard_3c_projeto_contador
-richard_3c_projeto_contador
+# PROJETO-CRIATIVO-ALURA
+Um contador de objetivos alura
